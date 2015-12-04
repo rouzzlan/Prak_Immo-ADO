@@ -1,0 +1,12 @@
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\Immo-CA.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\Immo-CA.exe
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\Immo-CA.pdb
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\BL.dll
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\BL.Domain.dll
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\DAL.dll
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\BL.Domain.pdb
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\BL.pdb
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\bin\Debug\DAL.pdb
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\obj\Debug\Immo-CA.exe
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\UI-CA\obj\Debug\Immo-CA.pdb

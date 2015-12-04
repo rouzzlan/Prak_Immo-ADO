@@ -1,0 +1,7 @@
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\DAL\bin\Debug\DAL.dll
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\DAL\bin\Debug\DAL.pdb
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\DAL\bin\Debug\BL.Domain.dll
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\DAL\bin\Debug\BL.Domain.pdb
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\DAL\obj\Debug\DAL.dll
+\\mac\home\documents\visual studio 2015\Projects\Prak_Immo-ADO\DAL\obj\Debug\DAL.pdb
